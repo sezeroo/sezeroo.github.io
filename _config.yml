@@ -62,15 +62,15 @@ author_education_details:
 
 # Projects
 author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
-                visibility: false
-              - project_thumbnail: hack4r.PNG
-                project_title: Hack4r
-                project_description: A Platform built for Hackers and Penetration Testers
-                project_url: https://hack4r.com
+              - project_thumbnail: null
+                project_title: null
+                project_description: null
+                project_url: null
+                visibility: true
+              - project_thumbnail: null
+                project_title: null
+                project_description: null
+                project_url: null
                 visibility: false
 
 # social links
@@ -105,9 +105,9 @@ highlighter: rouge
 permalink: pretty
 
 # Choose what to show ( can be true or false)
-show_author_work_experiences: true
-show_author_education_details: true
-show_author_project_details: true
+show_author_work_experiences: false
+show_author_education_details: false
+show_author_project_details: false
 
 # pagination of posts
 paginate: 4
