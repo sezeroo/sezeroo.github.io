@@ -28,7 +28,7 @@ urls:
 # Edit Author details (For multi authors check _data/authors.yml)
 
 
-author_logo: null
+author_logo: guel.jpg
 author: sezero
 author_bio: 초보개발자 sezero
 author_email: null
@@ -74,7 +74,7 @@ author_project_details:
                 visibility: false
 
 # social links
-twitter_username: guel.jpg
+twitter_username: null
 github_username:  sezeroo
 facebook_username: null
 linkedin_username: null
