@@ -43,13 +43,13 @@ author_work_experiences:
               company_url: null
               designation: null
               description: null
-              visibility: true
+              visibility: false
             - company_name: null
               company_logo: null
               company_url: null
               designation: null
               description: null
-              visibility: true
+              visibility: false
 
 # Education
 author_education_details:
@@ -58,7 +58,7 @@ author_education_details:
                 college_url: https://mit.org
                 college_degree: CS Engineer
                 description: Bachelor of Technology
-                visibility: true
+                visibility: false
 
 # Projects
 author_project_details:
@@ -66,7 +66,7 @@ author_project_details:
                 project_title: null
                 project_description: null
                 project_url: null
-                visibility: true
+                visibility: false
               - project_thumbnail: null
                 project_title: null
                 project_description: null
