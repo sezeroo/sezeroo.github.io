@@ -27,9 +27,14 @@ urls:
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: 
+
+author_logo: null
 author: sezero
 author_bio: 초보개발자 sezero
+author_email: null
+author_location: korea
+author_website_url: null
+typewrite-text: null
 
 # Experiences
 author_work_experiences:
