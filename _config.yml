@@ -53,11 +53,11 @@ author_work_experiences:
 
 # Education
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+              - college_logo: null
+                college_name: null
+                college_url: null
+                college_degree: null
+                description: null
                 visibility: false
 
 # Projects
@@ -97,7 +97,7 @@ wakatime_username: sujaykundu777
 mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
 
 # formspree (contact form)
-formspree_email: johndoe@gmail.com
+formspree_email: null
 
 # syntax highlighter
 markdown: kramdown
