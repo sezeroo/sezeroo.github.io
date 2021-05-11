@@ -28,13 +28,13 @@ urls:
 # Edit Author details (For multi authors check _data/authors.yml)
 
 
-author_logo: null
+author_logo: guel.jpg
 author: sezero
 author_bio: 초보개발자 sezero
 author_email: null
 author_location: korea
 author_website_url: null
-typewrite-text: null
+typewrite-text: 초보개발자입니다.
 
 # Experiences
 author_work_experiences:
