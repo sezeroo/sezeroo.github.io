@@ -27,8 +27,8 @@ urls:
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: profile.png
-author: John Doe
+author_logo: 
+author: sezero
 author_bio: 초보개발자 sezero
 
 # Experiences
