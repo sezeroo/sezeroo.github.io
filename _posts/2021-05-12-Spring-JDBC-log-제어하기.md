@@ -41,8 +41,7 @@ thumbnail: /assets/img/log.jpg
 
 <br> 
 
-![updatejdbclog](https://user-images.githubusercontent.com/76033275/118462293-7c381080-b739-11eb-9c93-5d7645f10bc7.PNG)
-
+![updatejdbclog](https://user-images.githubusercontent.com/76033275/118463801-25cbd180-b73b-11eb-9a4c-e9175a1dac91.PNG)
 
 
 <p>정리하고 나니 콘솔창이 깔끔해졋다 ㅎㅎ
