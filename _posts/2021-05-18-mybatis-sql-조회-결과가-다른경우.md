@@ -14,9 +14,7 @@ thumbnail: /assets/img/log.png
 
 왜 다르게 나오는지 한참 고민했다...
 
-![sql조회](/assets/img/posts/sql조회.png)
-
-<center><img src="/assets/img/posts/sql조회.png" width="50%" height="50%"0></center>
+<center><img src="/assets/img/posts/sql조회.png" width="50%" height="100%"0></center>
 
 <br><br>
 
