@@ -12,7 +12,7 @@ thumbnail: /assets/img/log.png
     
 </p>
 
-왜 다르게 나오는지 한참 고민했다...</p>
+왜 다르게 나오는지 한참 고민했다...
 
 ![sql조회](https://user-images.githubusercontent.com/76033275/118614511-cc2adc00-b7fa-11eb-9980-18de924a6405.png)
 
