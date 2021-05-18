@@ -13,6 +13,7 @@ thumbnail: /assets/img/log.png
 </p>
 
 왜 다르게 나오는지 한참 고민했다...
+<br><br>
 
 <center><img src="/assets/img/posts/sql조회.png" width="50%" height="100%"0></center>
 
