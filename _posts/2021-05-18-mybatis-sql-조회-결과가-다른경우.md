@@ -14,7 +14,8 @@ thumbnail: /assets/img/log.png
 
 왜 다르게 나오는지 한참 고민했다...
 
-![sql조회](https://user-images.githubusercontent.com/76033275/118614511-cc2adc00-b7fa-11eb-9980-18de924a6405.png){: width="50%"}
+![sql조회](https://user-images.githubusercontent.com/76033275/118617502-ac48e780-b7fd-11eb-9f48-c6c327a670ed.png){: width="50%" height="50%"}
+
 
 <br><br>
 
