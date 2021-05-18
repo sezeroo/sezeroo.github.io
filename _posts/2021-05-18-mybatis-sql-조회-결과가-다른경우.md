@@ -16,6 +16,7 @@ thumbnail: /assets/img/log.png
 
 ![sql조회](/assets/img/posts/sql조회.png)
 
+<center><img src="/assets/img/posts/sql조회.png" width="50%" height="50%"0></center>
 
 <br><br>
 
