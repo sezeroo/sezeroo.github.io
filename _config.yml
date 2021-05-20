@@ -1,7 +1,7 @@
 title: sezero Blog
-subtitle: 응애 나 애기 코린이 sezero Blog
+subtitle: 코린이 sezero Blog
 description: >- # this means to ignore newlines until "baseurl:"
- Hi, I am sezero.
+ 코린이입니다.
 
 url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -34,7 +34,7 @@ author_bio: 초보개발자 sezero
 author_email: null
 author_location: korea
 author_website_url: null
-typewrite-text: 응애 나 애기 코린이 
+typewrite-text: 개발 잘하고 싶은 
 
 # Experiences
 author_work_experiences:
