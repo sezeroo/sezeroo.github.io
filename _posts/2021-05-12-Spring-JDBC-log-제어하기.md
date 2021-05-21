@@ -5,7 +5,7 @@ summary: "Spring JDBC log 제어하기"
 author: sezero
 date: '2021-05-12 08:45:23 +0530'
 category: spring
-thumbnail: /assets/img/log.jpg
+thumbnail: /assets/img/posts/log.PNG
 
 ---
 
