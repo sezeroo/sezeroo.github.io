@@ -20,7 +20,7 @@ thumbnail: /assets/img/posts/notfunction.PNG
 
 <p> 코드의 오타, 기호오류 등의 다양한 이유가 있겠지만 나같은 경우에는 모듈화 해놓은 곳에서 function 을 return 해주지 않아 나오는 오류였다.
 
-</p
+</p>
 
 
 
