@@ -41,7 +41,7 @@ thumbnail: /assets/img/log.jpg
 
 <br> 
 
-<img src="/assets/img/posts/updatejdbclog.png" width="50%" height="50%">
+<img src="/assets/img/posts/updatejdbclog.PNG" width="50%" height="50%">
 
 
 
