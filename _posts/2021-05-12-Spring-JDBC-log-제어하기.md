@@ -41,7 +41,7 @@ thumbnail: /assets/img/log.jpg
 
 <br> 
 
-![updatejdbclog](https://user-images.githubusercontent.com/76033275/119083265-98d69000-ba3a-11eb-8c87-2533c1551e61.PNG){: width="50%" height="50%"}
+![updatejdbclog](/assets/img/posts/updatejdbclog.png){: width="50%" height="50%"}
 
 
 
