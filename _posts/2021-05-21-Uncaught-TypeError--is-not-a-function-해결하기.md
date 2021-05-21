@@ -38,7 +38,7 @@ thumbnail: /assets/img/posts/notfunction.PNG
 
 
 
-<img src="/assets/img/posts/afterReturn.PNG" width="75%" height="50%">
+<img src="/assets/img/posts/afterReturn.PNG" width="75%" height="30%">
 
 
 
