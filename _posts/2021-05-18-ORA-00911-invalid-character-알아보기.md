@@ -13,8 +13,7 @@ thumbnail: /assets/img/sql에러.png
 
 <p>페이징 처리를 위해 열심히 sql 을 작성하고 실행해보니 오류가 발생햇다. </P>
 
-![sql에러](https://user-images.githubusercontent.com/76033275/118597488-b364fb00-b7e7-11eb-9033-c7e1c7e679f5.PNG)
-
+<img src="/assets/img/posts/sql에러.PNG" width="50%" height="50%">
 <p>
 'ORA-00911: invalid characte'
 
