@@ -31,8 +31,7 @@ thumbnail: /assets/img/log.jpg
 
 
 
-![jdbclog](https://user-images.githubusercontent.com/76033275/118462022-34b18480-b739-11eb-9ec2-6b8444340cf7.PNG)
-
+<img src="/assets/img/posts/jdbclog.PNG" width="50%" height="50%">
 
 
 <p> 나는 이런식으로 정리했다. 
