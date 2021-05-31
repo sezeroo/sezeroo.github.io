@@ -18,7 +18,7 @@ thumbnail: /assets/img/posts/boot.png
 
 <p>Run -> Edit configuration 을 가면 아래그림처럼 창이 하나 열릴것이다.
 
-<img src="/assets/img/posts/editconfiguration.png" width="50%" height="50%">
+<img src="/assets/img/posts/editconfiguration.png" width=auto height=auto>
 
 
 
