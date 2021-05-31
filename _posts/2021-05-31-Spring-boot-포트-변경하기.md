@@ -4,7 +4,7 @@ title:  "Spring boot 포트 변경하기"
 summary: "포트변경"
 author: sezero
 date: '2021-05-31 17:45:23 +0530'
-category: spring
+category: SpringBoot
 thumbnail: /assets/img/posts/boot.png
 ---
 
