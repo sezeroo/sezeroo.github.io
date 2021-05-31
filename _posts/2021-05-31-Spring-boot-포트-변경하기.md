@@ -5,7 +5,7 @@ summary: "포트변경"
 author: sezero
 date: '2021-05-31 17:45:23 +0530'
 category: spring
-thumbnail: /assets/img/posts/boot.PNG
+thumbnail: /assets/img/posts/boot.png
 ---
 
 <p>스프링 부트를 처음 사용하다보니 스프링 레거시 프로젝트와 다른게 너무 많았다. <br>
@@ -18,13 +18,13 @@ thumbnail: /assets/img/posts/boot.PNG
 
 <p>Run -> Edit configuration 을 가면 아래그림처럼 창이 하나 열릴것이다.
 
-<img src="/assets/img/posts/editconfiguration.PNG" width="50%" height="50%">
+<img src="/assets/img/posts/editconfiguration.png" width="50%" height="50%">
 
 
 
 <br><br>
 
-<p>창이 열리면 <h3>Enviroment variables</h3>  칸 안에 <h3>server.port='변경하고싶은 포트번호'</h3> 를 입력한후 넣어주면 된다.
+<p>창이 열리면 <h4>Enviroment variables</h4>  칸 안에 <h4>server.port='변경하고싶은 포트번호'</h4> 를 입력한후 넣어주면 된다.
     
 </p>
 
