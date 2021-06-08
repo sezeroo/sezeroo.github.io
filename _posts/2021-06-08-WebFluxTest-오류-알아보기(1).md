@@ -6,7 +6,7 @@ summary: "내가 겪은 오류들 알아보기"
 author: sezero
 date: '2021-06-08 16:00:23 +0530'
 category: SpringBoot
-thumbnail: /assets/img/posts/boot.PNG
+thumbnail: /assets/img/posts/boot.png
 ---
 
 <p>스프링 부트를 사용하면서 Reactive 한 코드를 사용하다보면  test  를할때 WebMvcTest가 아닌 <br>WebFluxTest 를 사용하게 된다. </p>
