@@ -6,7 +6,7 @@ summary: "내가 겪은 오류들 알아보기"
 author: sezero
 date: '2021-06-08 16:00:23 +0530'
 category: SpringBoot
-thumbnail: /assets/img/posts/boot.PNG
+thumbnail: /assets/img/posts/boot.png
 ---
 
 <p>스프링 부트를 사용하면서 Reactive 한 코드를 사용하다보면  test  를할때 WebMvcTest가 아닌 <br>WebFluxTest 를 사용하게 된다. </p>
@@ -70,7 +70,7 @@ thumbnail: /assets/img/posts/boot.PNG
 
 <br><br>
 
-<p>원인을 알았으니 해결방법은 간단하다. 내가 설정해놓은 scurity 설정을 테스트 클래스에 알려주면 된다.</p>
+<p>원인을 알았으니 해결방법은 간단하다. 내가 설정해놓은 security 설정을 테스트 클래스에 알려주면 된다.</p>
 
 <br><br>
 
