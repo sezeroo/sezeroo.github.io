@@ -70,7 +70,7 @@ thumbnail: /assets/img/posts/boot.png
 
 <br><br>
 
-<p>원인을 알았으니 해결방법은 간단하다. 내가 설정해놓은 scurity 설정을 테스트 클래스에 알려주면 된다.</p>
+<p>원인을 알았으니 해결방법은 간단하다. 내가 설정해놓은 security 설정을 테스트 클래스에 알려주면 된다.</p>
 
 <br><br>
 
