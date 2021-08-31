@@ -5,7 +5,7 @@ summary: "Object Mapper"
 author: sezero
 date: '2021-08-31 10:35:23 +0530'
 category: Spring
-thumbnail: /assets/img/ObjcetMapper.PNG
+thumbnail: /assets/img/posts/ObjcetMapper.PNG
 
 ---
 
