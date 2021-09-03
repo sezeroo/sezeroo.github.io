@@ -6,7 +6,7 @@ summary: "Interceptor"
 author: sezero
 date: '2021-09-03 16:50:23 +0530'
 category: Spring
-thumbnail: /assets/img/posts/intellij.png
+thumbnail: /assets/img/posts/InterceptorClass.png
 ---
 
 SpringBoot 를 활용해 InterCeptor 의 사용방법을 알아보자.
