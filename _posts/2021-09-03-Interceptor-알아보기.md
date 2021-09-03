@@ -6,7 +6,7 @@ summary: "Interceptor"
 author: sezero
 date: '2021-09-03 16:50:23 +0530'
 category: Spring
-thumbnail: /assets/img/posts/intellij.png
+thumbnail: /assets/img/posts/InterceptorClass.png
 ---
 
 SpringBoot 를 활용해 InterCeptor 의 사용방법을 알아보자.
@@ -66,7 +66,9 @@ preHandle 메소드를 오버라이드해서 사용해주면된다. 기본적으
 @Auth 가 있다면 Interceptor 로그가 찍힐것이고 아니면 찍히지 않을것이다.
 
 <br><br>
+<img src="/assets/img/posts/InterceptorLog.PNG" width="100%" height="100%">
 
+<br><br>
 <img src="/assets/img/posts/MvcConfig.PNG" width="100%" height="100%">
 
 <br><br>
