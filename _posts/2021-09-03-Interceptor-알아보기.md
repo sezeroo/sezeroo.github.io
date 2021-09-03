@@ -5,7 +5,7 @@ title:  "Interceptor 알아보기."
 summary: "Interceptor"
 author: sezero
 date: '2021-09-03 16:50:23 +0530'
-category: Spring
+category: spring
 thumbnail: /assets/img/posts/InterceptorClass.png
 ---
 
