@@ -43,3 +43,7 @@ TemplateApi 를 사용해보자. 그러기 위해서 서버가 두개 필요하�
 <img src="/assets/img/posts/TemplateApiClientController.PNG" width="100%" height="100%">
 
 <br><br>
+
+이런 설정이 끝난후 서버를 불러오면 Server 쪽에 지정해놓은 값을 client 는 client 주소만 호출해주면 값을 리턴받아 사용할 수 있다.
+<br>
+예를 들어 User객체가 필요하다면 Server 쪽에 지정해놓은 User 객체 정보를 client 에서도 만들어주어 사용하면된다.
