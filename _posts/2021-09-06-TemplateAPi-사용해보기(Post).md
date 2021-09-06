@@ -28,7 +28,7 @@ thumbnail: /assets/img/posts/boot.png
 
 <br>
 
-<img src="/assets/img/posts/ServerPostApi.PNG" width="100%" height="100%">
+<img src="/assets/img/posts/ServerPostAPi.PNG" width="100%" height="100%">
 
 <br><br>
 
