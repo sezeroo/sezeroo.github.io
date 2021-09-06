@@ -5,8 +5,8 @@ title:  "Interceptor 알아보기."
 summary: "Interceptor"
 author: sezero
 date: '2021-09-03 16:50:23 +0530'
-category: Spring
-thumbnail: /assets/img/posts/InterceptorClass.png
+category: spring
+thumbnail: /assets/img/posts/InterceptorClass.PNG
 ---
 
 SpringBoot 를 활용해 InterCeptor 의 사용방법을 알아보자.
@@ -15,15 +15,15 @@ SpringBoot 를 활용해 InterCeptor 의 사용방법을 알아보자.
 
 (내가 직접 만든 Auth 어노테이션 클래스.)
 
-<br><br>
+<br>
 
 인증관련하여 어떤 것을 사용해 인증할것인지 많은 종류가 있겠지만 나는 Auth 라는 어노테이션이 사용하는 것으로 인증 을 해보려고한다.
 
-<br><br>
+<br>
 
 (@Auth 가 있으면 인증O, 없으면 인증 X )
 
-<br><br>
+<br>
 
 인증에 사용할 컨트롤러를 두개 만들어주자.
 
