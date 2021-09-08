@@ -28,6 +28,9 @@ thumbnail: /assets/img/posts/boot.png
 위 사진 처럼 클래스 또는 인터페이스 이름 뒤에 <> 부호가 붙는다.
 
 <br>
+Reqbody 의 들어갈 값이 String 이거나 Int 이거나 다양할수 잇기에 Req를 제네릭 타입으로 지정했다.
+
+<br>
 
 저 가로안에 내가 사용하고 싶은 타입을 지정해 주면 된다.
 
