@@ -100,6 +100,8 @@ runtimeException 을 던져주었기때문에 서비스 클래스에서는 try c
 <br><br>
 
 RuntimeException을 받지않으면 transaction 이 완료된 후에 데이터는 DB에 커밋된다.
+<br>
+결과적으로 RuntimeException 이 발생하면 그 테이블은 드랍되어버린다.
 
 <br><br>
 
