@@ -4,7 +4,7 @@ title:  "JPA Transaction 예외처리 알아보기."
 summary: "JPA Transaction"
 author: sezero
 date: '2021-11-08 17:15:23 +0530'
-category: miniproject
+category: JPA
 thumbnail: /assets/img/posts/searchservice.PNG
 
 ---
