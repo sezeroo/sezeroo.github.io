@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "MYSQL Insert 오류"
+summary: "Insert 오류"
+author: sezero
+date: '2021-11-10 10:25:23 +0530'
+category: JPA
+thumbnail: /assets/img/posts/mysqlinserterror.PNG
+
+---
+
+JPA 사용 test 를 만들기위해 mysql 인서트 문을 사용했는데 오류가 발생했다.
+
+<br><br>
+
+<img src="/assets/img/posts/mysqlinserterror.PNG" width="100%" height="100%">
+
+<br><br>
+
+진짜 아무리찾아봐도 잘못한게 없는거같은데 오류가나오니 머리가아팠다.
+
+<br>
+검색도 해보고 이리보고 저리봐도 잘못한게 없는데 머가문제일까 하고 이것저것 시도해보았다.
+
+<br><br>
+
+<img src="/assets/img/posts/mysqlinserterror2.PNG" width="100%" height="100%">
+
+<br><br>
+
+검색해보았을때 컬럼 이름에도  '' , 작은따옴표가 들어갓었는데 혹시나하고 컬럼에서 빼보니
+
+<br>
+정상작동했다 알다가도  모를 개발의 세계이다.
