@@ -18,7 +18,7 @@ JPA 는 영속성 컨텍스트 에서 Entity 들을 관리한다 그렇게하다
 
 <br><br>
 
-<img src="/assets/img/postsjpafetch2.PNG" width="100%" height="100%">
+<img src="/assets/img/posts/jpafetch2.PNG" width="100%" height="100%">
 
 <br><br>
 
@@ -26,7 +26,7 @@ JPA 는 영속성 컨텍스트 에서 Entity 들을 관리한다 그렇게하다
 
 <br><br>
 
-<img src="/assets/img/postsjpafetch3.PNG" width="100%" height="100%">
+<img src="/assets/img/posts/jpafetch3.PNG" width="100%" height="100%">
 
 <br><br>
 
@@ -34,11 +34,11 @@ JPA 는 영속성 컨텍스트 에서 Entity 들을 관리한다 그렇게하다
 
 <br><br>
 
-<img src="/assets/img/postsjpafetch4.PNG" width="100%" height="100%">
+<img src="/assets/img/posts/jpafetch4.PNG" width="100%" height="100%">
 
 <br><br>
 
-<img src="/assets/img/postsjpafetch5.PNG" width="100%" height="100%">
+<img src="/assets/img/posts/jpafetch5.PNG" width="100%" height="100%">
 
 <br><br>
 
@@ -86,7 +86,7 @@ Lazy패치와 Eager 패치를 비교해서 코드로 알아보자. 비교를 위
 
 <br><br>
 
-<img src="/assets/img/postsjpafetch6.PNG" width="100%" height="100%">
+<img src="/assets/img/posts/jpafetch6.PNG" width="100%" height="100%">
 
 <br><br>
 
@@ -94,7 +94,7 @@ Lazy패치와 Eager 패치를 비교해서 코드로 알아보자. 비교를 위
 
 <br><br>
 
-<img src="/assets/img/postsjpafetch7.PNG" width="100%" height="100%">
+<img src="/assets/img/posts/jpafetch7.PNG" width="100%" height="100%">
 
 <br><br>
 
@@ -102,7 +102,7 @@ Lazy패치와 Eager 패치를 비교해서 코드로 알아보자. 비교를 위
 
 <br><br>
 
-<img src="/assets/img/postsjpafetch8.PNG" width="100%" height="100%">
+<img src="/assets/img/posts/jpafetch8.PNG" width="100%" height="100%">
 
 <br><br>
 
@@ -110,7 +110,7 @@ Lazy패치와 Eager 패치를 비교해서 코드로 알아보자. 비교를 위
 
 <br><br>
 
-<img src="/assets/img/postsjpafetch9.PNG" width="100%" height="100%">
+<img src="/assets/img/posts/jpafetch9.PNG" width="100%" height="100%">
 
 <br><br>
 
