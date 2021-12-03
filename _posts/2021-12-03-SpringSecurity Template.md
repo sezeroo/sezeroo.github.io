@@ -4,7 +4,7 @@ title:  "SpringSecurity Template"
 summary: "Security"
 author: sezero
 date: '2021-12-03 10:00:23 +0530'
-category: JPA
+category: Spring
 thumbnail: /assets/img/posts/security.PNG
 ---
 <br>
