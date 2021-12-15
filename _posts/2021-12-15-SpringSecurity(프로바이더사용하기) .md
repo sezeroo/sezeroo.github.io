@@ -5,7 +5,7 @@ summary: "SpringSecurity"
 author: sezero
 date: '2021-12-08 10:00:23 +0530'
 category: spring
-thumbnail: /assets/img/posts/게시판1.PNG
+thumbnail: /assets/img/posts/provider2.PNG
 ---
 
 
